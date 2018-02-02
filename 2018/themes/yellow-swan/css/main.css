@@ -772,11 +772,11 @@ nav {
    CONTENT
    ========================================================================== */
 .content a {
-  color: #f0a303;
+  color: darkblue;
 }
 .content a:hover,
 .content a:focus {
-  color: #fddd52;
+  color: black;
   text-decoration: underline;
 }
 /* =============================================================================
