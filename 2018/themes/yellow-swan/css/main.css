@@ -934,7 +934,7 @@ nav {
 {
   display: block;
   color: #FFF;
-  background-color: #000000;
+  background-color: #494949;
   font-size: large;
   width: 100%;
   padding: 14px 14px 14px 10px;
@@ -954,7 +954,7 @@ nav {
   display: block;
   color: #000000;
   font-size: large;
-  background-color: #FFFFFF;
+  background-color: #d0d0d0;
   width: 100%;
   padding: 10px 10px 10px 17px;
   text-decoration: none;
